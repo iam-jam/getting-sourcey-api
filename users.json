@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Mr. Miyagi",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Pat-Morita_%28Karate_Kid%29.jpg/250px-Pat-Morita_%28Karate_Kid%29.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chewbacca",
+    "image": "https://pmcvariety.files.wordpress.com/2018/05/unnamed10.jpg?w=700&h=393&crop=1"
+  },
+  {
+    "id": 3,
+    "name": "Wallace",
+    "image": "https://vignette.wikia.nocookie.net/characters/images/c/c7/Wallace.jpg/revision/latest/scale-to-width-down/340?cb=20170821133303"
+  }
+]

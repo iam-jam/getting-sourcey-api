@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Bad Juju",
+    "price": 1.9,
+    "image": "https://www.infinityfoodswholesale.coop/graphics_cache/6/c/7983-388905-1-3-600.png",
+    "tags": ["hot", "sour"]
+  },
+  {
+    "id": 2,
+    "name": "Screaming Chimp",
+    "price": 2.25,
+    "image": "https://screamingchimp.com/wp-content/uploads/2018/06/Original.png"
+  },
+  {
+    "id": 3,
+    "name": "Ultra Death",
+    "price": 1.8,
+    "image": "https://i19.onbuy.com/product/8a4bd07dceeb46cd8aa0adaad684f5e2-m11000457.jpg",
+    "tags": ["fruity", "sour"]
+  },
+  {
+    "id": 4,
+    "name": "Grenade",
+    "price": 4,
+    "image": "https://cdn.bmstores.co.uk/images/hpcProductImage/imgSource/349961-grenade-hot-sauce.jpg",
+    "tags": ["fruity", "sweet"]
+  },
+  {
+    "id": 5,
+    "name": "Sir Fartalots's",
+    "price": 2.3,
+    "image": "https://cdn3.volusion.com/w2xra.6rkfx/v/vspfiles/photos/1349-2T.jpg?v-cache=1568023672",
+    "tags": ["hot", "sweet"]
+  },
+  {
+    "id": 6,
+    "name": "Pain 100",
+    "price": 3.4,
+    "image": "https://www.partridges.co.uk/pub/media/catalog/product/cache/75eed2686e01eb22cb4050b2f40ddf97/p/a/pain_100.jpg",
+    "tags": ["sour", "fruity"]
+  }
+]
